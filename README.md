@@ -26,17 +26,20 @@ A simple command-line journal app built using **Node.js**. It helps you create, 
 ## 📂 Folder Structure
 
 ```
-daily-journal-node/
-├── data/
-│ └── journal.json # Stores journal entries
-├── utils/
-│ └── fileHelper.js # Handles all file read/write logic
-├── index.js # Main CLI logic
-├── package.json # Project metadata
-└── README.md # You're here!
+📁 daily-journal-node
+├── 📁 controllers
+│   └── 📄 journalController.js
+├── 📁 data
+│   └── 📄 journal.json
+├── 📁 node_modules
+├── 📁 utils
+│   └── 📄 fileHelper.js
+├── 📄 app.js
+├── 📄 package.json
+├── 📄 package-lock.json
+└── 📄 README.md
+
 ```
-
-
 
 
 ---
