@@ -57,14 +57,14 @@ cd daily-journal-node
 ### 2. Run the App
 
 ```
-node index.js
+node app.js
 ```
 
 
 
 ## 🧪 How to Use
 
-When you run `node index.js`, the app will guide you through the following steps:
+When you run `node app.js`, the app will guide you through the following steps:
 
 ---
 
