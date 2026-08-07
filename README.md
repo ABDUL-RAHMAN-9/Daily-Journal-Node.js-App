@@ -65,7 +65,7 @@ cd node-journal-cli
 
 ### 2. Install Dependencies
 ```bash
-Install Dependencies
+npm install
 ```
 
 ### 3. Start the Application
