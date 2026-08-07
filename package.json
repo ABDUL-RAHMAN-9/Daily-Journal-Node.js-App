@@ -1,15 +1,21 @@
 {
-  "name": "daily-journal-node",
+  "name": "node-journal-cli",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "A lightweight daily journal CLI built with Node.js and local JSON storage.",
+  "main": "app.js",
+  "type": "commonjs",
   "scripts": {
+    "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "type": "commonjs",
+  "keywords": [
+    "cli",
+    "journal",
+    "node",
+    "terminal"
+  ],
+  "author": "abdul rahman",
+  "license": "MIT",
   "dependencies": {
     "readline-sync": "^1.4.10"
   }
